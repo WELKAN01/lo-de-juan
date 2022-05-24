@@ -1,0 +1,25 @@
+input[type="number"]{
+    border: none;
+    height: 20px;
+    text-align: center;
+}
+
+input::-webkit-inner-spin-button,
+input::-webkit-outer-spin-button{
+    -webkit-appearance: none;
+}
+input:focus{
+    border: none;
+}
+
+img{
+    width: 200px;
+    height: 150px;
+    overflow: hidden;
+}
+input[type="button"]{
+    width: 18%;
+}
+h1{
+    color: rgb(136, 136, 136);
+}

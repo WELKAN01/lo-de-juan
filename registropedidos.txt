@@ -1,0 +1,6 @@
+Victor|Quispe|safsa@gmail.com|safsafawqrq|1=>1/2 pollo a la brasa////50////3 + 2=>parrillada dominical////86////2|322s/.2
+Erick|Salazar|asfasfwqer@gmail.com|dondeestoy|1=>1/2 pollo a la brasa////50////3 + 2=>parrillada dominical////86////2|322s/.2
+andy|leon|sadasfawqq@gmail.com|eqwrqwrqw|1=>1/2 pollo a la brasa////50////3 + 2=>parrillada dominical////86////2|322s/.2
+Erick|Salazar|||1=>1/2 pollo a la brasa////50////1|50s/.2
+andy|leon|asfasfwqer@gmail.com|eqwrqwrqw|1=>1/2 pollo a la brasa////50////1 + 2=>1/4 pollo a la brasa////32////1 + 3=>1/4 pollo a la brasa////32////1 + 4=>1/2 pollo a la brasa////50////1|164s/.2
+Erick|Salazar|andy_leon_16@hotmail.com|asfsafafwqrqwr|1=>1/2 pollo a la brasa |precio 50 |cantidad1 + 2=>1/4 pollo a la brasa |precio 32 |cantidad1 + 3=>1/2 pollo a la brasa|precio 50| cantidad4|282s/.2

@@ -1,0 +1,6 @@
+1|1/2 pollo a la brasa|50|POLLO_A_LA_BRASA
+2|1/4 pollo a la brasa|32|POLLO_A_LA_BRASA
+3|parrillada dominical|86|parrillada_promo
+4|aeropuerto|12|AEROPUERTO
+5|monstruito|12|MONSTRUITO
+6|1 pollo a la brasa|72|POLLO_A_LA_BRASA
